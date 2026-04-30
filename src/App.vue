@@ -5,7 +5,7 @@
       <RouterView />
     </main>
     <Footer />
-    <ToastNotification />
+    <ToastNotification title="" message="" type="info" />
   </div>
 </template>
 
